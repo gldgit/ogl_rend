@@ -1,0 +1,7 @@
+CompileFlags:
+  Add: 
+    - -Ilibs/glad/include
+    - -Iinclude
+    - -std=c++17
+  Remove: 
+    - -W*
