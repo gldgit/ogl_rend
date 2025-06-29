@@ -1,6 +1,6 @@
 # ogl_rend
 
-A modern OpenGL renderer built from the ground up, designed for learning and experimentation with real-time graphics programming.
+An OpenGL renderer.
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-4.6-blue.svg)
 ![C++](https://img.shields.io/badge/C++-17-red.svg)
